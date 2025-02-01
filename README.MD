@@ -18,3 +18,7 @@
 - Step VIII: **apps.py** file is created
 
 - Step IX: **urls.py** file is modified
+
+- Step X: Installed the ckeditor using the command **pip install django-ckeditor** and also **settings.py** is modified
+
+
