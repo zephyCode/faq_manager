@@ -8,3 +8,5 @@
 - Step III: admin.py file is created for giving the admin control to manage the faqs in the app.
 
 - Step IV: fixing of migrations are done in this commit as well. Using the commands. **python manage.py makemigrations**, **python manage.py migrate**
+
+- Step V: views.py and serializers.py file is created for **Django REST Api framework** and also urls.py file is modified
