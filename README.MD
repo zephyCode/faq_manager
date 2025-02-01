@@ -14,3 +14,5 @@
 - Step VI: **Djando Rest Framework** is installed using the command **pip install djangorestframework**
 
 - Step VII: **settings.py** is modified
+
+- Step VIII: **apps.py** file is created
