@@ -12,3 +12,5 @@
 - Step V: views.py and serializers.py file is created for **Django REST Api framework** and also urls.py file is modified
 
 - Step VI: **Djando Rest Framework** is installed using the command **pip install djangorestframework**
+
+- Step VII: **settings.py** is modified
