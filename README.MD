@@ -4,3 +4,7 @@
     "django-admin startproject faq_manager"
 
 - Step II: Creation of models.py file inside the faq_manager folder
+
+- Step III: admin.py file is created for giving the admin control to manage the faqs in the app.
+
+- Step IV: fixing of migrations are done in this commit as well. Using the commands. **python manage.py makemigrations**, **python manage.py migrate**
