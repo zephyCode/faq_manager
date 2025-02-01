@@ -16,3 +16,5 @@
 - Step VII: **settings.py** is modified
 
 - Step VIII: **apps.py** file is created
+
+- Step IX: **urls.py** file is modified
