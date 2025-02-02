@@ -25,4 +25,6 @@
 
 - Step XII: **serializers.py**, **admin.py**, **settings.py**, **urls.py**, **views.py** are modified for cache and admin portal to manage faqs.
 
+- Step XIII: An error encounterd for table **faq_manager_faq table is not found** so i fixed that with following commands. **python manage.py makemigrations faq_manager** and also verified the **INSTALLED_APPS** field in the **settings.py** file.
+
 
