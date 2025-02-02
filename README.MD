@@ -23,4 +23,6 @@
 
 - Step XI: Implementation of the cache and google trans in the **models.py** file
 
+- Step XII: **serializers.py**, **admin.py**, **settings.py**, **urls.py** are modified for cache and admin portal to manage faqs.
+
 
