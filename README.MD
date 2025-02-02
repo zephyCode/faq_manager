@@ -21,6 +21,6 @@
 
 - Step X: Installed the ckeditor using the command **pip install django-ckeditor** and also **settings.py** is modified
 
-- Step XI: Implementation of the cache and google trans in the **model.py** file
+- Step XI: Implementation of the cache and google trans in the **models.py** file
 
 
