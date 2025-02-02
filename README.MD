@@ -28,3 +28,8 @@
 - Step XIII: An error encounterd for table **faq_manager_faq table is not found** so i fixed that with following commands. **python manage.py makemigrations faq_manager** and also verified the **INSTALLED_APPS** field in the **settings.py** file.
 
 
+P.S-: There is some issue with the cache and the url for accessing the faqs request page and admin page are **http://localhost:8000/faqs/**, **http://localhost:8000/admin/** (if your port is 8000)
+
+and also **requirement.text** file is added
+
+
